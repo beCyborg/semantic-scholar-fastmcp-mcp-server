@@ -137,6 +137,10 @@ If no API key is provided, the server will use unauthenticated access with lower
 
 ## Configuration
 
+## Contributing
+
+See `CONTRIBUTING.md`.
+
 ### Environment Variables
 
 - `SEMANTIC_SCHOLAR_API_KEY`: Your Semantic Scholar API key (optional)
